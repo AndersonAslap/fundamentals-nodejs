@@ -1,4 +1,4 @@
-# fundamentos-nodejs-2021
+# fundamentos-nodejs
 
 Projeto incial para fixar os conhecimentos sobre
 
